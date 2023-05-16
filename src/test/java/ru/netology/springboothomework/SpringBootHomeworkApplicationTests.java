@@ -1,3 +1,4 @@
+
 package ru.netology.springboothomework;
 
 import org.junit.jupiter.api.Assertions;
@@ -41,4 +42,5 @@ class SpringBootHomeworkApplicationTests {
         Assertions.assertEquals(forProdApp.getBody(), "Current profile is production");
     }
 }
+
 
